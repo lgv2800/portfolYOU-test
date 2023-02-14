@@ -9,6 +9,11 @@
           <h5>{{ item.subtitle }}</h5>
           <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
           <p>{{ item.description }}</p>
+          <p id="tools" class="card-text">
+            {%- for tag in item.tags -%}
+            <span class="badge badge-pill text-primary border border-primary ml-1">{{ tag }}</span>
+            {%- endfor -%}
+          </p>
         </div>
       </div>
     {% endfor %}
