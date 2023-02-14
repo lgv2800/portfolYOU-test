@@ -17,6 +17,7 @@
   .timeline-item {
     position: relative;
 
+    /*
     &:after {
       // Circle
       content: "";
@@ -30,6 +31,7 @@
       top: 8px;
       z-index: 10;
     }
+    */
 
     .content {
       margin: 40px;
