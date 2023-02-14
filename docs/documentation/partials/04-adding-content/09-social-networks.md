@@ -1,6 +1,6 @@
 #### Social Networks
 
-portfolYOU provides a good number of social networks, but if you want to add your own, go on.
+LaCarpeta provides a good number of social networks, but if you want to add your own, go on.
 
 1. Add the following lines to `_data/social-media.yml`:
 

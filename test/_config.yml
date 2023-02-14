@@ -2,8 +2,8 @@
 source              : ../
 collections_dir     : docs
 data_dir            : docs/_data
-baseurl             : "/portfolYOU-test"
-repository          : YoussefRaafatNasry/portfolYOU
+baseurl             : "/LaCarpeta-test"
+repository          : YoussefRaafatNasry/LaCarpeta
 open_new_tab        : false
 
 ### Navbar Settings ###

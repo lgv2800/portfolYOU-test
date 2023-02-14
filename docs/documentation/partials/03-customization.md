@@ -16,5 +16,5 @@ Simply **override** the file you want to change by matching the **same file name
     ---
     ---
     /* Add your custom style here */
-    @import "portfolYOU";
+    @import "LaCarpeta";
     ```
